@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import Product from './Product';
 import Cart from './Cart';
 import productData from './productData';
+import './App.css';
 
 
 const App = () => {
